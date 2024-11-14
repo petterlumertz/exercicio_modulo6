@@ -11,4 +11,5 @@
 9. Pegar a marmita da geladeira 
 10. Armazenar todos os itens na mochila
 11. Dar um beijo na mulher e no filho
-12. Sair para o trabalho
+12. Sair para o trabalho!
+13. FIM

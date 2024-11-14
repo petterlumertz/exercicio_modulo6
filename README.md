@@ -1,5 +1,3 @@
-#exercicio_modulo6 
-
 1. Acordar e desligar o alarme do  celular. 
 2. Levantar e ir ao banheiro
 3. Após, ir até a cafeteira e iniciar o processo de café 
